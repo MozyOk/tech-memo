@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Mozy's Tech Memo
+subtitle: 
 description:
 keywords:
-author: John Doe
+author: Mozy Okubo
 language:
-timezone:
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://mozyok-tech-memo.netlify.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,8 +73,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
+theme_config:
+    colorscheme: white
 
+google_analytics:
+    enabled: true
+        id: 'UA-110885929-3'
+      
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
