@@ -28,6 +28,17 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+nav:
+  Home: /
+  About: /about/
+  Writing: /archives/
+  Projects: https://github.com/MozyOk/tech-memo
+  LINK_NAME: URL
+
+social_links:
+  github: https://github.com/MozyOk/
+  twitter: https://twitter.com/ok_mozy
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
