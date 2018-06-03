@@ -83,8 +83,4 @@ google_analytics:
       
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
-  type: git
-  repo: https://github.com/MozyOk/tech-memo
-  branch: master
 
