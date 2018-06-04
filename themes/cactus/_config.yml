@@ -27,7 +27,7 @@ nav:
 social_links:
   github: https://github.com/MozyOk/
   twitter: https://twitter.com/ok_mozy
-  mail: mailto:mozy.okubo@gmail.com
+  mail: mailto:mozy.okubo+techmemo@gmail.com
 
 
 # Customize the overview with the most recent blog posts on the index page.
@@ -118,6 +118,10 @@ disqus:
 google_analytics: 
   enabled: true
   id: UA-110885929-3
+
+  baidu_analytics:
+  enabled: false
+  id: 2e6da3c375c8a87f5b664cea6d4cb29c
 
 # Fill in you Gravatar user id / email if you want to use your gravatar as the
 # logo and/or favicons of you website.
