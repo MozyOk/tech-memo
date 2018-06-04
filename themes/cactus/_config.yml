@@ -119,7 +119,7 @@ google_analytics:
   enabled: true
   id: UA-110885929-3
 
-  baidu_analytics:
+baidu_analytics:
   enabled: false
   id: 2e6da3c375c8a87f5b664cea6d4cb29c
 
