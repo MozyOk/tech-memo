@@ -2,6 +2,8 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+projects_url: https://github.com/MozyOk/tech-memo
+
 # Site
 title: Mozy's Tech Memo
 subtitle: 
@@ -38,6 +40,7 @@ nav:
 social_links:
   github: https://github.com/MozyOk/
   twitter: https://twitter.com/ok_mozy
+  mail: mailto:mozy.okubo@gmail.com
 
 # Writing
 new_post_name: :title.md # File name of new posts
