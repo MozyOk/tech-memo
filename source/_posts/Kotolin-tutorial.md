@@ -1,5 +1,5 @@
 ---
-title: Kotolin tutorial
+title: Kotlin tutorial
 date: 2018-06-07 01:24:55
 tags:
 ---
