@@ -1,5 +1,5 @@
 ---
-title: Kotln String
+title: Kotlin String
 date: 2018-06-08 01:40:45
 tags:
 ---
