@@ -14,3 +14,7 @@ can be change later
 
 • Val is Immutable  
 cannot be change later
+
+ref
+===
+https://www.safaribooksonline.com/library/view/kotlin-for-beginners/9781788625944/
