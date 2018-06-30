@@ -1,8 +1,8 @@
-===
-day: 2018-06-30
+---
 title: dockerfile-tar-DL-sample
+date: 2018-06-30 14:47
 tags: docker
-===
+---
 
 dockerfile sample
 ===
