@@ -7,4 +7,6 @@ tags: docker
 dockerfile sample
 ===
 
+Dockerfile内で、tarをダウンロードして利用するときのサンプル
+
 https://gist.github.com/MozyOk/70d3b3d5d1c195101df855b7a2b36b66
