@@ -4,7 +4,7 @@ date: 2018-06-30 14:47
 tags: docker
 ---
 
-dockerfile sample
+dockerfile tar sample
 ===
 
 Dockerfile内で、tarをダウンロードして利用するときのサンプル
